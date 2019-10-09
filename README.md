@@ -24,3 +24,4 @@ When you submit a pull request, a CLA-bot automatically determines whether you n
 ## Notes
 * If you are running this on a local box and get PermissionError: [Errno 13] Permission denied when running the ```python3 -m flask run```
 add a ```--port 8080``` to the end or your favorite unused port
+* I found this from this tutorial [Use CI/CD to deploy a Python web app to Azure App Service on Linux](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops)
